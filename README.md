@@ -3,9 +3,8 @@
 
 This extension is based on the open source NodeJs library "postman-to-openapi" https://www.npmjs.com/package/postman-to-openapi
 
-## Requirements
-
-An up-to-date Visual Studio Code installation is all you need.
+## Tech
+Collection to OpenAPI is built with Javascript No javascript frameworks used.
 
 ## How to USE?
 
