@@ -1,6 +1,7 @@
 # collection-to-openapi README
+"collection-to-openapi" converts the postman collection to OpenAPI specification version 3.0.0.
 
-This is the README for your extension "collection-to-openapi". After writing up a brief description, we recommend including the following sections.
+This extension is based on the open source NodeJs library "postman-to-openapi" https://www.npmjs.com/package/postman-to-openapi
 
 ## Features
 
