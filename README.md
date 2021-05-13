@@ -21,5 +21,8 @@ Only works with Postman collection json files.
 
 Initial release of collection-to-openapi, includes postman collection json file conversion to OpenAPI specification
 
+## Point-to-Ponder
+
+While exporting the postman collection, please remove the passwords, client ids and credentials, as these also gets exported and gets converted in OpenAPI specification.
 
 **Enjoy!**
