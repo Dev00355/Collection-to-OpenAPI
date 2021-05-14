@@ -16,7 +16,7 @@ Only works with Postman collection json files.
 
 ## Release Notes
 
-### 1.0.0
+### 0.1.0
 
 Initial release of collection-to-openapi, includes postman collection json file conversion to OpenAPI specification
 
