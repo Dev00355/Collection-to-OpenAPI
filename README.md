@@ -1,7 +1,7 @@
 # collection-to-openapi
 "collection-to-openapi" converts the postman collection to OpenAPI specification version 3.0.0 and also converts the openAPI to postman collection.
 
-This extension is based on the open source NodeJs libraries ["postman-to-openapi"] (https://www.npmjs.com/package/postman-to-openapi) and ["openapi-to-postmanv2"](https://www.npmjs.com/package/openapi-to-postmanv2) 
+This extension is based on the open source NodeJs libraries ["postman-to-openapi"](https://www.npmjs.com/package/postman-to-openapi) and ["openapi-to-postmanv2"](https://www.npmjs.com/package/openapi-to-postmanv2) 
 
 ## Tech
 Collection to OpenAPI is built with Javascript. No javascript frameworks used.
