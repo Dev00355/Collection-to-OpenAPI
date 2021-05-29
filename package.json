@@ -1,6 +1,7 @@
 {
 	"name": "collection-to-openapi",
 	"displayName": "Collection to OpenAPI",
+	"publisher": "DevPandey",
 	"description": "Postman Collection to OpenAPI Specification converter",
 	"version": "0.0.1",
 	"engines": {
@@ -10,7 +11,8 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:collection-to-openapi.convert-to-openapi"
+		"onCommand:collection-to-openapi.convert-to-openapi",
+		"onCommand:collection-to-openapi.convert-to-collection"
 	],
 	"main": "./extension.js",
 	"contributes": {
@@ -18,6 +20,10 @@
 			{
 				"command": "collection-to-openapi.convert-to-openapi",
 				"title": "Convert to OpenAPI"
+			},
+			{
+				"command": "collection-to-openapi.convert-to-collection",
+				"title": "Convert to Postman Collection"
 			}
 		]
 	},
@@ -38,6 +44,7 @@
 		"vscode-test": "^1.5.0"
 	},
 	"dependencies": {
+		"openapi-to-postmanv2": "^2.7.0",
 		"postman-to-openapi": "^1.8.0"
 	}
 }
