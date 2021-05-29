@@ -10,7 +10,7 @@ Collection to OpenAPI is built with Javascript. No javascript frameworks used.
 
 Open the Postman collection json file and press Ctrl+Shift+P (Windows User), Cmd+Shift+P(Mac User) and type command "Convert to OpenAPI". Extension automatically creates the OpenAPI specification file with "yml" extension in the same directory.
 
-To convert the OpenAPI specification to postman collection type command "Convert to Postman Collection" in command pallet.
+To convert the OpenAPI specification to postman collection, type command "Convert to Postman Collection" in the command pallet.
 
 ## Known Issues
 
