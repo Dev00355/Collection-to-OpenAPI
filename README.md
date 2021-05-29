@@ -20,7 +20,7 @@ Only works with Postman collection.
 
 ### 1.0.0
 
-Initial release of collection-to-openapi, includes postman collection json file conversion to OpenAPI specification
+Initial release of collection-to-openapi, includes postman collection json file conversion to OpenAPI specification and OpenAPI specification to postman collection
 
 ## Point-to-Ponder
 
