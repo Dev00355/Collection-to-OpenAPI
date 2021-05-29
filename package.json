@@ -3,9 +3,13 @@
 	"displayName": "Collection to OpenAPI",
 	"publisher": "DevPandey",
 	"description": "Postman Collection to OpenAPI Specification converter",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.56.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Dev00355/Collection-to-OpenAPI.git"
 	},
 	"categories": [
 		"Other"
